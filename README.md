@@ -159,10 +159,10 @@ streamlit run fraud_detection.py
 
 ## 👨‍💻 Author
 
-**Rakesh G**
+**Jeremy Hayes**
 
-BCA (H) — Artificial Intelligence & Data Science  
-K.R. Mangalam University, New Delhi | CGPA: 9.22/10  
+Bachelor of Science, Software Engineering
+Western Governor's University | Expected Graduation: December 2026
 Dean's Award Recipient | IBM Certified Data Scientist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rakesh%20G-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rakesh-bca)
@@ -176,11 +176,3 @@ Dean's Award Recipient | IBM Certified Data Scientist
 `python` `machine-learning` `fraud-detection` `scikit-learn` `xgboost` `random-forest` `streamlit` `data-science` `classification` `imbalanced-dataset` `fintech` `jupyter-notebook`
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-⭐ **If you found this useful, please star this repository!**
